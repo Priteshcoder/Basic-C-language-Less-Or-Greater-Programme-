@@ -1,0 +1,9 @@
+int main() {
+    int a=12,b=10;
+    printf("\nless than=%d" ,a<b);
+    printf("\ngreater than=%d" ,a>b);
+    printf("\nless than or equals to=%d" ,a<=b);
+    printf("\ngreater than or equals to=%d",a>=b);
+    printf("\nequals to=%d" ,a==b);
+    printf("\nnot equals to=%d" ,a!=b);
+}
